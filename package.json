@@ -1,0 +1,62 @@
+{
+  "name": "eslint-config-common-react",
+  "description": "JavaScript Common coding Style React/JSX support - ESLint Shareable Config",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Nicolas Tallefourtane",
+    "url": "http://nicolab.net"
+  },
+  "homepage": "https://github.com/Nicolab/eslint-config-common-react",
+  "bugs": {
+    "url": "https://github.com/Nicolab/eslint-config-common-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Nicolab/eslint-config-common-react.git"
+  },
+  "dependencies": {
+    "eslint-config-common-jsx": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.0.1",
+    "eslint-plugin-react": ">=2.7.1",
+    "tape": "^4.0.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=2.0.0",
+    "eslint-plugin-react": ">=2.7.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "keywords": [
+    "JavaScript Standard Style",
+    "check",
+    "checker",
+    "code",
+    "code checker",
+    "code linter",
+    "code standards",
+    "code style",
+    "enforce",
+    "eslint",
+    "eslintconfig",
+    "hint",
+    "jscs",
+    "jshint",
+    "jsx",
+    "lint",
+    "policy",
+    "quality",
+    "react",
+    "simple",
+    "standard",
+    "standard style",
+    "style",
+    "style checker",
+    "style linter",
+    "verify"
+  ]
+}
