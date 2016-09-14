@@ -15,7 +15,7 @@
   ],
 
   "rules": {
-    "react/jsx-no-bind": [2, {
+    "react/jsx-no-bind": [1, {
       "allowArrowFunctions": true,
       "allowBind": false,
       "ignoreRefs": true
