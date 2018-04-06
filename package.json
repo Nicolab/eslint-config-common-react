@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-common-react",
   "description": "JavaScript Common coding Style React/JSX support - ESLint Shareable Config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "author": {
     "name": "Nicolas Tallefourtane",
@@ -16,16 +16,16 @@
     "url": "git://github.com/Nicolab/eslint-config-common-react.git"
   },
   "dependencies": {
-    "eslint-config-common-jsx": "^1.0.0"
+    "eslint-config-common-jsx": "^1.0.1"
   },
   "devDependencies": {
-    "eslint": "^3.0.1",
-    "eslint-plugin-react": ">=2.7.1",
+    "eslint": "^4.19.1",
+    "eslint-plugin-react": ">=7.7.0",
     "tape": "^4.0.0"
   },
   "peerDependencies": {
-    "eslint": ">=2.0.0",
-    "eslint-plugin-react": ">=2.7.1"
+    "eslint": ">=4.0.0",
+    "eslint-plugin-react": ">=7.7.0"
   },
   "main": "index.js",
   "scripts": {
